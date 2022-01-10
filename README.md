@@ -1,5 +1,9 @@
 # employee-management-client
 
+Commands
+'npm start' to run the application on default port 3000
+
+
 Requirement
 1. Create a sign-up and login module for a web application.
 2. Create a dashboard screen where logged in user can add Employee details:
